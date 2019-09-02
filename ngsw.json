@@ -1,0 +1,92 @@
+{
+  "configVersion": 1,
+  "timestamp": 1567397428978,
+  "index": "https://hzjanger.github.io/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://hzjanger.github.io/favicon.ico",
+        "https://hzjanger.github.io/index.html",
+        "https://hzjanger.github.io/main-es2015.98866a124ce94876742c.js",
+        "https://hzjanger.github.io/main-es5.f6a3e9f2ac6f7856ab42.js",
+        "https://hzjanger.github.io/polyfills-es2015.5728f680576ca47e99fe.js",
+        "https://hzjanger.github.io/polyfills-es5.7f43b971448d2fb49202.js",
+        "https://hzjanger.github.io/runtime-es2015.858f8dd898b75fe86926.js",
+        "https://hzjanger.github.io/runtime-es5.741402d1d47331ce975c.js",
+        "https://hzjanger.github.io/styles.3653e782e740595a8ab7.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://hzjanger.github.io/assets/data/note.json",
+        "https://hzjanger.github.io/assets/icons/icon-128x128.png",
+        "https://hzjanger.github.io/assets/icons/icon-144x144.png",
+        "https://hzjanger.github.io/assets/icons/icon-152x152.png",
+        "https://hzjanger.github.io/assets/icons/icon-192x192.png",
+        "https://hzjanger.github.io/assets/icons/icon-384x384.png",
+        "https://hzjanger.github.io/assets/icons/icon-512x512.png",
+        "https://hzjanger.github.io/assets/icons/icon-72x72.png",
+        "https://hzjanger.github.io/assets/icons/icon-96x96.png",
+        "https://hzjanger.github.io/assets/img/3_hzjanger.jpg",
+        "https://hzjanger.github.io/assets/img/brand.jpg",
+        "https://hzjanger.github.io/assets/svg/baseline-home.svg",
+        "https://hzjanger.github.io/assets/svg/baseline-menu.svg",
+        "https://hzjanger.github.io/assets/svg/github.svg",
+        "https://hzjanger.github.io/brand.734f817bbb181d0180d7.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://hzjanger.github.io/assets/data/note.json": "e6f2666011465eda9979f76357986d26afb6dce5",
+    "https://hzjanger.github.io/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://hzjanger.github.io/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://hzjanger.github.io/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://hzjanger.github.io/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://hzjanger.github.io/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://hzjanger.github.io/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://hzjanger.github.io/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://hzjanger.github.io/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://hzjanger.github.io/assets/img/3_hzjanger.jpg": "eb76e05f64b8df4a9bb26686ebf403c3df6e26e7",
+    "https://hzjanger.github.io/assets/img/brand.jpg": "0e237f1b433851c156e1f1cdaeb044054b3b9879",
+    "https://hzjanger.github.io/assets/svg/baseline-home.svg": "ff7e4dcd47a6f8841a43dcd9c3325346aa807d23",
+    "https://hzjanger.github.io/assets/svg/baseline-menu.svg": "d978e8f5dbbb71b584bd0e1a348dc625270173dc",
+    "https://hzjanger.github.io/assets/svg/github.svg": "80374d83da53a4eaa312e52ef3758a3ab3ef6d59",
+    "https://hzjanger.github.io/brand.734f817bbb181d0180d7.jpg": "0e237f1b433851c156e1f1cdaeb044054b3b9879",
+    "https://hzjanger.github.io/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://hzjanger.github.io/index.html": "61ca5ea400dc417646813198584b19854386f45b",
+    "https://hzjanger.github.io/main-es2015.98866a124ce94876742c.js": "904e00d91a34122af234a7bbe221c934bd010b6e",
+    "https://hzjanger.github.io/main-es5.f6a3e9f2ac6f7856ab42.js": "e411b2f21b6b3a512363f58df1633402a6f6f1da",
+    "https://hzjanger.github.io/polyfills-es2015.5728f680576ca47e99fe.js": "77f974dd2b186031cfc4f4526d96db4efcd39353",
+    "https://hzjanger.github.io/polyfills-es5.7f43b971448d2fb49202.js": "f84a71ef6c7a788b5fe701bf2405313d7766a66d",
+    "https://hzjanger.github.io/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://hzjanger.github.io/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://hzjanger.github.io/styles.3653e782e740595a8ab7.css": "dd7e711a1e75d6fec057c89a90b0f57ded90b916"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
